@@ -11,7 +11,8 @@
 | 📅20250517 |        📜[세기의 대결](https://www.acmicpc.net/problem/33679)        |       |       |       |       |       |       |
 | 📅20250524 |        📜[전구 길만 걷자](https://www.acmicpc.net/problem/17359)        |       |       |       |       |       |       |
 | 📅20250524 |        📜[산책 나온 춘배](https://www.acmicpc.net/problem/30412)        |       |       |       |       |       |       |
-
+| 📅20250607 |        📜[백도어](https://www.acmicpc.net/problem/17396)        |       |    ⏳   |       |       |       |       |
+| 📅20250607 |        📜[문자열 집합 조합하기](https://www.acmicpc.net/problem/25328)        |       |    ☑️   |       |       |       |       |
 ### 🍒Checking mark
 
 - Done in time: ☑️ <br>
