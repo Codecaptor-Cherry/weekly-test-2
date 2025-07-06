@@ -15,6 +15,8 @@
 | 📅20250607 |        📜[문자열 집합 조합하기](https://www.acmicpc.net/problem/25328)        |       |    ☑️   |       |       |       |       |
 | 📅20250614 |        📜[종이자르기](https://www.acmicpc.net/problem/2628)        |       |       |       |   ☑️    |       |       |
 | 📅20250614 |        📜[LCS 2](https://www.acmicpc.net/problem/9252)        |       |       |       |   ☑️    |       |       |
+| 📅20250705 |        📜[A](https://www.acmicpc.net/problem/13171)        |       |       |       |   ☑️    |    ☑️      |       |
+| 📅20250705 |        📜[연산자 끼워넣기(2)](https://www.acmicpc.net/problem/15658)        |       |       |       |   ☑️    |       |       |
 ### 🍒Checking mark
 
 - Done in time: ☑️ <br>
