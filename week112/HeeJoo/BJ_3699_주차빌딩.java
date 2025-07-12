@@ -62,14 +62,15 @@ public class BJ_3699_주차빌딩 {
             while(!pq.isEmpty()) {
                 Car car = pq.poll(); // 차를 찾으러 온 손님
 
-                sum += car.x * 20;
+                sum += car.x * 20; // 층 이동 소요 시간
 
+                // 시계 or 반시계 중 더 짧은 방향으로 회전
                 int gap = Math.abs(car.y - status[car.x]);
                 gap = Math.min(gap, l - gap);
 
-                sum += gap * 5;
+                sum += gap * 5; // 차 한 대에 5초
 
-                status[car.x] = car.y;
+                status[car.x] = car.y; // 해당 층의 마지막 벨트 위치 저장
             }
 
             sb.append(sum + "\n");
