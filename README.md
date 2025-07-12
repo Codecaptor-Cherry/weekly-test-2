@@ -17,8 +17,8 @@
 | 📅20250614 |        📜[LCS 2](https://www.acmicpc.net/problem/9252)        |       |       |       |   ☑️    |       |       |
 | 📅20250705 |        📜[A](https://www.acmicpc.net/problem/13171)        |       |       |       |   ☑️    |    ☑️      |       |
 | 📅20250705 |        📜[연산자 끼워넣기(2)](https://www.acmicpc.net/problem/15658)        |       |       |       |   ☑️    |  ☑️       |       |
-| 📅20250712 |        📜[주차빌딩](https://www.acmicpc.net/problem/3699)        |       |       |       |     |    ☑️      |       |
-| 📅20250712 |        📜[규현이의 사랑을 담은 문자메세지](https://www.acmicpc.net/problem/2713)        |       |       |       |     |       |       |
+| 📅20250712 |        📜[주차빌딩](https://www.acmicpc.net/problem/3699)        |       |   ☑️    |       |     |    ☑️      |       |
+| 📅20250712 |        📜[규현이의 사랑을 담은 문자메세지](https://www.acmicpc.net/problem/2713)        |       |    ☑️   |       |     |       |       |
 ### 🍒Checking mark
 
 - Done in time: ☑️ <br>
