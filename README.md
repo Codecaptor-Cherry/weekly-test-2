@@ -21,7 +21,7 @@
 | 📅20250705 |        📜[연산자 끼워넣기(2)](https://www.acmicpc.net/problem/15658)        |       |       |       |   ☑️    |  ☑️       |       |
 | 📅20250712 |        📜[주차빌딩](https://www.acmicpc.net/problem/3699)        |       |   ☑️    |    ☑️   |     |    ☑️      |       |
 | 📅20250712 |        📜[규현이의 사랑을 담은 문자메세지](https://www.acmicpc.net/problem/2713)        |       |    ☑️   |   ☑️    |     |     ☑️      |       |
-| 📅20250719 |        📜[벽장문의 이동](https://www.acmicpc.net/problem/2666)        |       |    ☑️   |       |     |            |       |
+| 📅20250719 |        📜[벽장문의 이동](https://www.acmicpc.net/problem/2666)        |       |    ☑️   |       |     |       ☑️         |       |
 | 📅20250719 |        📜[카드게임](https://www.acmicpc.net/problem/2621)        |       |    ☑️   |       |     |       ☑️        |       |
 | 📅20250726 |        📜[조 짜기](https://www.acmicpc.net/problem/2229)        |       |      |       |     |            |       |
 | 📅20250726 |        📜[꿀따기](https://www.acmicpc.net/problem/21758)        |       |      |       |     |              |       |
