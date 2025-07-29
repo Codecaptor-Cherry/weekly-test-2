@@ -16,7 +16,7 @@
 | 📅20250614 |        📜[종이자르기](https://www.acmicpc.net/problem/2628)        |       |       |       |   ☑️    |       |       |
 | 📅20250614 |        📜[LCS 2](https://www.acmicpc.net/problem/9252)        |       |       |       |   ☑️    |       |       |
 | 📅20250621 |        📜[Mahjong](https://www.acmicpc.net/problem/14552)        |       |       |       |       |       |       |
-| 📅20250621 |        📜[본대 산책](https://www.acmicpc.net/problem/12849)        |       |       |       |       |       |       |
+| 📅20250621 |        📜[본대 산책](https://www.acmicpc.net/problem/12849)        |       |       |       |  ☑️      |     ☑️   |       |
 | 📅20250705 |        📜[A](https://www.acmicpc.net/problem/13171)        |       |       |   ☑️    |   ☑️    |    ☑️      |       |
 | 📅20250705 |        📜[연산자 끼워넣기(2)](https://www.acmicpc.net/problem/15658)        |       |       |       |   ☑️    |  ☑️       |       |
 | 📅20250712 |        📜[주차빌딩](https://www.acmicpc.net/problem/3699)        |       |   ☑️    |    ☑️   |     |    ☑️      |       |
