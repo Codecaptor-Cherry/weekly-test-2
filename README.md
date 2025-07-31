@@ -13,7 +13,7 @@
 | 📅20250524 |        📜[산책 나온 춘배](https://www.acmicpc.net/problem/30412)        |       |    ❌   |       |       |       |       |
 | 📅20250607 |        📜[백도어](https://www.acmicpc.net/problem/17396)        |       |    ⏳   |       |       |       |       |
 | 📅20250607 |        📜[문자열 집합 조합하기](https://www.acmicpc.net/problem/25328)        |       |    ☑️   |   ☑️   |       |       |       |
-| 📅20250614 |        📜[종이자르기](https://www.acmicpc.net/problem/2628)        |       |       |       |   ☑️    |       |       |
+| 📅20250614 |        📜[종이자르기](https://www.acmicpc.net/problem/2628)        |       |       |       |   ☑️    |      ☑️     |       |
 | 📅20250614 |        📜[LCS 2](https://www.acmicpc.net/problem/9252)        |       |       |       |   ☑️    |       |       |
 | 📅20250621 |        📜[Mahjong](https://www.acmicpc.net/problem/14552)        |       |       |       |       |       |       |
 | 📅20250621 |        📜[본대 산책](https://www.acmicpc.net/problem/12849)        |       |       |       |  ☑️      |     ☑️   |       |
