@@ -24,8 +24,6 @@
 | 📅20250719 |        📜[벽장문의 이동](https://www.acmicpc.net/problem/2666)        |       |    ☑️   |       |     |       ☑️         |       |
 | 📅20250719 |        📜[카드게임](https://www.acmicpc.net/problem/2621)        |       |    ☑️   |       |     |       ☑️        |       |
 | 📅20250726 |        📜[조 짜기](https://www.acmicpc.net/problem/2229)        |       |   ⏳   |       |     |            |       |
-<br>
-|            |                                                                                                                        | 👑김건현 | 🐹문희주 | ⭐안수빈 | 💪이우승 | 👻 임태민 | 🐻‍❄️김명진 |
 | 📅20250726 |        📜[꿀따기](https://www.acmicpc.net/problem/21758)        |       |   ☑️   |       |     |              |       |
 ### 🍒Checking mark
 
