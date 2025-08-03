@@ -26,7 +26,7 @@
 | 📅20250726 |        📜[조 짜기](https://www.acmicpc.net/problem/2229)        |       |   ⏳   |       |     |            |       |
 | 📅20250726 |        📜[꿀따기](https://www.acmicpc.net/problem/21758)        |       |   ☑️   |       |     |              |       |
 | 📅20250802 |        📜[수학 선생님의 고민](https://www.acmicpc.net/problem/28242)        |       |  ☑️  |       |     |            |       |
-| 📅20250802 |        📜[공평하게 팀나누기](https://www.acmicpc.net/problem/4384)        |       |   ⏳   |       |     |              |       |
+| 📅20250802 |        📜[공평하게 팀나누기](https://www.acmicpc.net/problem/4384)        |       |   ⏳   |       |     |         ⏳         |       |
 ### 🍒Checking mark
 
 - Done in time: ☑️ <br>
