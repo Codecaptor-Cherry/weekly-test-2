@@ -17,7 +17,8 @@ import java.util.StringTokenizer;
  */
 
 public class BJ_2571_색종이3 {
-    static int size = 0;
+    // static int size = 0;
+    static int size = 100;
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
@@ -32,7 +33,7 @@ public class BJ_2571_색종이3 {
             int a = stoi(st.nextToken()); // 왼쪽 여백
             int b = stoi(st.nextToken()); // 아래쪽 여백
 
-            size = Math.max(size, Math.max(a + 10, b + 10));
+            // size = Math.max(size, Math.max(a + 10, b + 10)); // 이렇게 하니까 자꾸 틀림 ㅠㅅㅠ 왜 그러는건지 모르겠다...~~
             fillBlack(map, a, b);
         }
 
