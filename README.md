@@ -34,6 +34,8 @@
 | 📅20250823 |        📜[사이클 게임](https://www.acmicpc.net/problem/20040)        |       |   ☑️   |       |     ☑️  |       |       |
 | 📅20250906 |        📜[셔틀런](https://www.acmicpc.net/problem/13268)        |       |   ☑️   |       |   ☑️    |       |       |
 | 📅20250906 |        📜[빙산](https://www.acmicpc.net/problem/2573)        |       |   ☑️   |       |    ☑️   |       |       |
+| 📅20250913 |        📜[김밥 21개](https://www.acmicpc.net/problem/3254)        |       |   ☑️   |       |   ☑️    |       |       |
+| 📅20250913 |        📜[아방가르드 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/181186)        |       |   ☑️   |       |    ☑️   |       |       |
 
 ### 🍒Checking mark
 
