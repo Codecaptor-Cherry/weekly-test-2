@@ -41,7 +41,6 @@
 | 📅20250927 |        📜[회장뽑기](https://www.acmicpc.net/problem/2660)        |       |   ☑️   |       |       |       |       |
 | 📅20250927 |        📜[달력](https://www.acmicpc.net/problem/20207)        |       |   ☑️   |       |       |       |       |
 | 📅20251018 |        📜[우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)        |       |   ☑️   |       |       |       |       |
-
 | 📅20251018 |        📜[섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)        |       |   ☑️   |       |       |       |       |
 
 ### 🍒Checking mark
