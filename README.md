@@ -42,6 +42,8 @@
 | 📅20250927 |        📜[달력](https://www.acmicpc.net/problem/20207)        |       |   ☑️   |       |       |       |       |
 | 📅20251018 |        📜[우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)        |       |   ☑️   |       |       |       |       |
 | 📅20251018 |        📜[섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)        |       |   ☑️   |       |       |       |       |
+| 📅20251025 |        📜[동물원](https://www.acmicpc.net/problem/1309)        |       |   ☑️   |       |       |       |       |
+| 📅20251025 |        📜[음악프로그램](https://www.acmicpc.net/problem/2623)        |       |   ☑️   |       |       |       |       |
 
 ### 🍒Checking mark
 
