@@ -35,15 +35,15 @@
 | 📅20250906 |        📜[셔틀런](https://www.acmicpc.net/problem/13268)        |       |   ☑️   |       |   ☑️    |       |       |
 | 📅20250906 |        📜[빙산](https://www.acmicpc.net/problem/2573)        |       |   ☑️   |       |    ☑️   |       |       |
 | 📅20250913 |        📜[김밥 21개](https://www.acmicpc.net/problem/3254)        |       |      |       |   ☑️    |       |       |
-| 📅20250913 |        📜[아방가르드 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/181186)        |       |   ⏳   |       |       |       |       |
-| 📅20250920 |        📜[자동완성](https://school.programmers.co.kr/learn/courses/30/lessons/17685)        |       |   ⏳   |       |       |       |       |
-| 📅20250920 |        📜[카카오머니](https://www.acmicpc.net/problem/15998)        |       |      |       |       |       |       |
-| 📅20250927 |        📜[회장뽑기](https://www.acmicpc.net/problem/2660)        |       |   ☑️   |       |       |       |       |
-| 📅20250927 |        📜[달력](https://www.acmicpc.net/problem/20207)        |       |   ☑️   |       |       |       |       |
-| 📅20251018 |        📜[우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)        |       |   ☑️   |       |       |       |       |
-| 📅20251018 |        📜[섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)        |       |   ☑️   |       |       |       |       |
-| 📅20251025 |        📜[동물원](https://www.acmicpc.net/problem/1309)        |       |   ☑️   |       |       |       |       |
-| 📅20251025 |        📜[음악프로그램](https://www.acmicpc.net/problem/2623)        |       |   ☑️   |       |       |       |       |
+| 📅20250913 |        📜[아방가르드 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/181186)        |       |   ⏳   |       |  ☑️     |       |       |
+| 📅20250920 |        📜[자동완성](https://school.programmers.co.kr/learn/courses/30/lessons/17685)        |       |   ⏳   |       |  ☑️     |       |       |
+| 📅20250920 |        📜[카카오머니](https://www.acmicpc.net/problem/15998)        |       |      |       |     ☑️  |       |       |
+| 📅20250927 |        📜[회장뽑기](https://www.acmicpc.net/problem/2660)        |       |   ☑️   |       |  ☑️     |       |       |
+| 📅20250927 |        📜[달력](https://www.acmicpc.net/problem/20207)        |       |   ☑️   |       |    ☑️   |       |       |
+| 📅20251018 |        📜[우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)        |       |   ☑️   |       |    ☑️   |       |       |
+| 📅20251018 |        📜[섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)        |       |   ☑️   |       |   ☑️    |       |       |
+| 📅20251025 |        📜[동물원](https://www.acmicpc.net/problem/1309)        |       |   ☑️   |       |     ☑️  |       |       |
+| 📅20251025 |        📜[음악프로그램](https://www.acmicpc.net/problem/2623)        |       |   ☑️   |       |    ☑️   |       |       |
 
 ### 🍒Checking mark
 
