@@ -44,6 +44,10 @@
 | 📅20251018 |        📜[섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)        |       |   ☑️   |       |   ☑️    |       |       |
 | 📅20251025 |        📜[동물원](https://www.acmicpc.net/problem/1309)        |       |   ☑️   |       |     ☑️  |       |       |
 | 📅20251025 |        📜[음악프로그램](https://www.acmicpc.net/problem/2623)        |       |   ☑️   |       |    ☑️   |       |       |
+| 📅20251101 |        📜[Router](https://www.acmicpc.net/problem/15828)        |       |      |       |       |       |       |
+| 📅20251101 |        📜[북극곰은 괄호를 찢어](https://www.acmicpc.net/problem/25918)        |       |      |       |       |       |       |
+| 📅20251108 |        📜[그래프 트리 분할](https://www.acmicpc.net/problem/22954)        |       |      |       |       |       |       |
+| 📅20251108 |        📜[승부 예측](https://www.acmicpc.net/problem/15997)        |       |      |       |       |       |       |
 
 ### 🍒Checking mark
 
