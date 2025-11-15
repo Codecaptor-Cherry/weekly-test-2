@@ -48,6 +48,8 @@
 | 📅20251101 |        📜[북극곰은 괄호를 찢어](https://www.acmicpc.net/problem/25918)        |       |      |       |       |       |       |
 | 📅20251108 |        📜[그래프 트리 분할](https://www.acmicpc.net/problem/22954)        |       |      |       |       |       |       |
 | 📅20251108 |        📜[승부 예측](https://www.acmicpc.net/problem/15997)        |       |   ⏳   |       |       |       |       |
+| 📅20251115 |        📜[양 구출 작전](https://www.acmicpc.net/problem/16437)        |       |   ☑️   |       |       |       |       |
+| 📅20251115 |        📜[보석](https://www.acmicpc.net/problem/2492)        |       |   ⏳   |       |       |       |       |
 
 ### 🍒Checking mark
 
