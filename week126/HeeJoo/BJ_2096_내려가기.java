@@ -41,8 +41,6 @@ public class BJ_2096_내려가기 {
 //        }
 
         for (int i = 1; i <= N; i++) {
-//            System.out.println("min : " + Arrays.toString(min));
-//            System.out.println("max : " + Arrays.toString(max));
             // 현재 줄의 결과
             int[] tmpMin = new int[3];
             int[] tmpMax = new int[3];
@@ -64,9 +62,6 @@ public class BJ_2096_내려가기 {
             min = tmpMin;
             max = tmpMax;
         }
-
-//        print(min);
-//        print(max);
 
         int maxAns = 0, minAns = Integer.MAX_VALUE;
 
