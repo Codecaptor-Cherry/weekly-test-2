@@ -31,6 +31,7 @@ public class BJ_2096_내려가기 {
         }
 
         // 이전 줄의 결과
+        // 2차원 DB 사용하면 100,000이라 메모리 초과
         int[] min = new int[3];
         int[] max = new int[3];
 
