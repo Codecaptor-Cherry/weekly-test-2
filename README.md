@@ -50,6 +50,8 @@
 | 📅20251108 |        📜[승부 예측](https://www.acmicpc.net/problem/15997)        |       |   ⏳   |       |       |       |       |
 | 📅20251115 |        📜[양 구출 작전](https://www.acmicpc.net/problem/16437)        |       |   ☑️   |       |       |       |       |
 | 📅20251115 |        📜[보석](https://www.acmicpc.net/problem/2492)        |       |   ⏳   |       |       |       |       |
+| 📅20251122 |        📜[내려가기](https://www.acmicpc.net/problem/2096)        |       |   ☑️   |       |       |       |       |
+| 📅20251122 |        📜[두 동전](https://www.acmicpc.net/problem/16197)        |       |   ☑️   |       |       |       |       |
 
 ### 🍒Checking mark
 
