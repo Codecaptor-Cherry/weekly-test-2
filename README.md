@@ -52,6 +52,8 @@
 | 📅20251115 |        📜[보석](https://www.acmicpc.net/problem/2492)        |       |   ⏳   |       |       |       |       |
 | 📅20251122 |        📜[내려가기](https://www.acmicpc.net/problem/2096)        |       |   ☑️   |       |       |       |       |
 | 📅20251122 |        📜[두 동전](https://www.acmicpc.net/problem/16197)        |       |   ☑️   |       |       |       |       |
+| 📅20251129 |        📜[달려달려](https://www.acmicpc.net/problem/1757)        |       |   ☑️   |       |       |       |       |
+| 📅20251129 |        📜[아무래도이문제는A번난이도인것같다](https://www.acmicpc.net/problem/1402)        |       |   ☑️   |       |       |       |       |
 
 ### 🍒Checking mark
 
