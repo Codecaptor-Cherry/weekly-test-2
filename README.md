@@ -54,6 +54,10 @@
 | 📅20251122 |        📜[두 동전](https://www.acmicpc.net/problem/16197)        |       |   ☑️   |       |       |       |       |
 | 📅20251129 |        📜[달려달려](https://www.acmicpc.net/problem/1757)        |       |   ⏳   |       |       |       |       |
 | 📅20251129 |        📜[아무래도이문제는A번난이도인것같다](https://www.acmicpc.net/problem/1402)        |       |   ☑️   |       |       |       |       |
+| 📅20251206 |        📜[산책 경로](https://www.acmicpc.net/problem/3097)        |       |   ☑️   |       |       |       |       |
+| 📅20251206 |        📜[최고의 초콜릿 성지순례](https://www.acmicpc.net/problem/31461)        |       |   ⏳   |       |       |       |       |
+| 📅20251213 |        📜[사과나무](https://www.acmicpc.net/problem/19539)      |       |   ☑️   |       |       |       |       |
+
 
 ### 🍒Checking mark
 
