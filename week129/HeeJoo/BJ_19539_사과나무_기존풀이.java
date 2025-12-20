@@ -32,11 +32,12 @@ public class BJ_19539_사과나무 {
         int odd = 0, even = 0;
         for (int i = 0; i < N; i++) {
             trees[i] = stoi(inputs[i]);
+            // sum += trees[i]; // 이거 없어도 통과됨... 3번에서 검열되는듯 ex) 1 1 8 6
             even += trees[i] / 2;
             odd += trees[i] % 2;
         }
 
-        // 1. 총 합을 3으로 나눌 수 없는 경우 불가능
+        // 1. 총 합을 3으로 나눌 수 없는 경우 불가능 // sum 계산이 안돼서 사실상 무의미
         if (sum % 3 != 0) {
             System.out.println(NO);
             return;
