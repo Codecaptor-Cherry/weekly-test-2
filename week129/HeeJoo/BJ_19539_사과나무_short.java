@@ -17,7 +17,7 @@ import java.io.InputStreamReader;
  * 2. 홀수 개수가 더 많은 경우 불가능
  * 3. 홀짝 개수를 맞춘 뒤, 짝 % 3 != 0이면 불가능
  */
-public class Main {
+public class BJ_19539_사과나무 {
     static final String YES = "YES";
     static final String NO = "NO";
     public static void main(String[] args) throws IOException {
